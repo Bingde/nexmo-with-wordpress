@@ -1,0 +1,516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"num",
+				"numberSubmit"
+			],
+			[
+				"this",
+				"thisUser"
+			],
+			[
+				"allpro",
+				"allprojectArray"
+			],
+			[
+				"all",
+				"allProject"
+			],
+			[
+				"pro",
+				"projectId"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"for",
+				"formatName"
+			],
+			[
+				"Proejct",
+				"Projectsort"
+			],
+			[
+				"col",
+				"colspan\tAttr"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"indentation",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"BR",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/libingzhao/Downloads/from local.sql",
+		"/Users/libingzhao/Desktop/newlife/login in/http:::thephpfactory.com:my-orders-downloads",
+		"/Users/libingzhao/nywebsite/kiro/davinciwoo/include/integrations/wc-yith-wishlist/yith-wishlist.php",
+		"/Users/libingzhao/nywebsite/kiro/davinciwoo/template-parts/header/partials/element-main-cart.php",
+		"/Users/libingzhao/nywebsite/kiro/davinciwoo/include/woocommerce/structure-wc-global.php",
+		"/Users/libingzhao/Downloads/CAN-AM Newsletter vF2.html",
+		"/Library/Python/2.7/site-packages/django/template/base.py",
+		"/Users/libingzhao/Desktop/text.py",
+		"/Library/WebServer/CGI-Executables/nice.py",
+		"/Users/libingzhao/Desktop/index.php",
+		"/Users/libingzhao/Desktop/index.html",
+		"/Users/libingzhao/Desktop/sms.php",
+		"/Users/libingzhao/Desktop/style.css",
+		"/Users/libingzhao/Downloads/chrome-app/untitled",
+		"/Users/libingzhao/Downloads/chrome-app/{",
+		"/Users/libingzhao/Downloads/chrome-app/manifest.json",
+		"/Users/libingzhao/Desktop/error.html",
+		"/Users/libingzhao/Downloads/tracks.json",
+		"/Users/libingzhao/Desktop/sendsms.php",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/user/projectDetail.blade.php",
+		"/Users/libingzhao/Downloads/backup/controllers/UserPacksController.php",
+		"/Users/libingzhao/Sites/newlaravel/app/Http/Controllers/HomeController.php",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/welcome.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/layouts/base.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/public/css/custom.css",
+		"/Users/libingzhao/Sites/newlaravel/app/Http/Controllers/FormController.php",
+		"/Users/libingzhao/Sites/newlaravel/app/Submission.php",
+		"/Users/libingzhao/Sites/newlaravel/app/Form.php",
+		"/Users/libingzhao/Sites/newlaravel/config/app.php",
+		"/Users/libingzhao/Sites/newlaravel/database/migrations/2017_07_27_000000_add_users_subscribe_fields.php",
+		"/Users/libingzhao/Sites/newlaravel/app/Http/Controllers/ProjectController.php",
+		"/Users/libingzhao/Sites/newlaravel/routes/web.php",
+		"/Users/libingzhao/Desktop/TEST.HTML",
+		"/Users/libingzhao/Sites/newlaravel/storage/logs/laravel.log",
+		"/Users/libingzhao/Desktop/env.text",
+		"/Users/libingzhao/Sites/newlaravel/.env",
+		"/Users/libingzhao/Downloads/backup/models/User.php",
+		"/Users/libingzhao/Sites/newlaravel/app/User.php",
+		"/Users/libingzhao/Sites/newlaravel/config/services.php",
+		"/Users/libingzhao/Sites/newlaravel/app/Providers/AppServiceProvider.php",
+		"/Users/libingzhao/Sites/newlaravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/guzzlehttp/psr7/src/Request.php",
+		"/Users/libingzhao/Sites/newlaravel/storage/app/public/form/July2017/oCrUKl0WgPu1gqTy6zRs.png",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/contact.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/layouts/master-partial-header.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/project.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Models/User.php",
+		"/Users/libingzhao/Sites/newlaravel/composer.lock",
+		"/Users/libingzhao/Sites/newlaravel/composer.json",
+		"/Users/libingzhao/Downloads/backup/views/packs/form.blade.php",
+		"/Users/libingzhao/Downloads/backup/views/pack-products/form.blade.php",
+		"/Users/libingzhao/Downloads/backup/controllers/PackProductsController.php",
+		"/Users/libingzhao/Downloads/backup/models/Survey.php",
+		"/Users/libingzhao/Downloads/backup/controllers/SurveysController.php",
+		"/Users/libingzhao/Downloads/backup/views/admin/master-partial-errorbar.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/partial/errorbar.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/partial/errorbar.blade.php/div>\n\t\t\t\t</div>\n      @endif\n\n\t\t\t@if($errors->has())\n        <div class=\"error-bar-wrapper\">\n\t\t\t\t\t<div class=\"error-bar alert alert-danger\" role=\"alert\">\n\t\t\t\t\t  <i class=\"error-icon fa fa-warning danger fa-4x pull-left\"></i>\n\t\t\t\t\t\t<span class=\"pull-right\">\n\t\t\t\t\t\t\tWe encountered the following errors:\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t    @foreach($errors->all() as $message)\n\t\t\t\t\t\t\t    <li>{{ $message }}</li>\n\t\t\t\t\t\t\t    @endforeach\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</div>\n\t      </div>\n\t\t\t@endif\n\n      @if(Session::has('error'))\n        <div class=\"error-bar-wrapper\">\n\t        <div class=\"error-bar alert alert-warning\">\n\t          {{Session::get('error')}}\n\t        </div>\n\t      </div>\n      @endif\npartial-errorbar.blade.php",
+		"/Users/libingzhao/Downloads/backup/views/emails/error.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/storage/app/public/form/July2017/2CdJSMOVclr6B9ReE7vU.png",
+		"/Users/libingzhao/Downloads/backup/models/PackProduct.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Models/Jobtype.php",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/old_welcome.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/resource/views/home.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/resources/views/home.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/resources/views/menu/admin_menu.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/routes/voyager.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Voyager.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Models/Projectsort",
+		"/Users/libingzhao/Sites/newlaravel/app/Form",
+		"/Users/libingzhao/Sites/newlaravel/app/Jobsecond",
+		"/Users/libingzhao/Sites/newlaravel/app/Project",
+		"/Users/libingzhao/Sites/newlaravel/app/Job.php",
+		"/Users/libingzhao/Sites/newlaravel/app/Jobse.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Models/Jobsecond",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Http/Controllers/VoyagerProjectController.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Models/DataType.php",
+		"/Users/libingzhao/Sites/newlaravel/app/Projectsort.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/resources/views/dashboard/sidebar.blade.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Http/Controllers/VoyagerDatabaseController.php",
+		"/Users/libingzhao/Sites/newlaravel/app/Project.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Models/Project",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Http/Controllers/VoyagerJobController.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Models/Permission.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Facades/Voyager.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Http/Controllers/VoyagerBreadController.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Models/Type",
+		"/Users/libingzhao/Sites/newlaravel/config/voyager.php",
+		"/Users/libingzhao/Sites/newlaravel/database/migrations/2016_01_01_000000_add_voyager_user_fields.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Http/Controllers/VoyagerTypeController",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Http/Controllers/VoyagerController.php",
+		"/Users/libingzhao/Sites/newlaravel/vendor/tcg/voyager/src/Http/Controllers/VoyagerRoleController.php",
+		"/Users/libingzhao/Sites/sushiexpresslachine/resources/lang/en.php",
+		"/Users/libingzhao/Sites/sushiexpresslachine/templates/default/home/items.php",
+		"/Users/libingzhao/Sites/sushiexpresslachine/templates/default/index.php",
+		"/Users/libingzhao/Sites/sushiexpresslachine/templates/default/home/contact.php",
+		"/Users/libingzhao/Sites/sushiexpresslachine/resources/lang/zh.php",
+		"/Users/libingzhao/Sites/sushiexpresslachine/resources/lang/fr.php",
+		"/Users/libingzhao/Sites/newwordpress/wp-content/plugins/woocommerce/templates/loop/result-count.php",
+		"/Users/libingzhao/Sites/newwordpress/wp-content/plugins/woocommerce/i18n/languages/woocommerce.pot",
+		"/private/var/folders/wp/t_v8dkbs6gv612gzvzy0b9kh0000gn/T/fz3temp-1/index.php",
+		"/Users/libingzhao/Sites/motellive/submit_test.php",
+		"/Users/libingzhao/Sites/motellive/eng_reserve.htm",
+		"/Users/libingzhao/Sites/bestship_dev/scripts/custom.js",
+		"/Users/libingzhao/Sites/bestship_dev/index.html",
+		"/Users/libingzhao/Sites/bestship_dev/styles/custom.css",
+		"/Users/libingzhao/Sites/bestship_dev/styles/main.css",
+		"/Users/libingzhao/Sites/bestship_dev/styles/style.css",
+		"/Users/libingzhao/Sites/bestship/index.html",
+		"/Users/libingzhao/Sites/bestship/views/contact.html",
+		"/private/var/folders/wp/t_v8dkbs6gv612gzvzy0b9kh0000gn/T/fz3temp-1/campaigner.php",
+		"/Users/libingzhao/Sites/motelgranby/ssl/eng_reserve.htm",
+		"/Users/libingzhao/Sites/motelgranby/ssl/french_reserve.htm",
+		"/Users/libingzhao/Sites/motelgranby/.htaccess",
+		"/Users/libingzhao/Sites/motelgranby/test.php",
+		"/Users/libingzhao/Sites/motelgranby/french_home.htm",
+		"/Users/libingzhao/Sites/motelgranby/eng_reserve.htm",
+		"/Users/libingzhao/Sites/motelgranby/vendor/composer/autoload_real.php",
+		"/Users/libingzhao/Sites/motelgranby/vendor/autoload.php",
+		"/Users/libingzhao/Sites/motelgranby/function.php",
+		"/Users/libingzhao/Sites/allforms/newemployee/submit.php",
+		"/Users/libingzhao/Sites/motelgranby/eng_home.htm",
+		"/Users/libingzhao/Sites/motelgranby/index.html",
+		"/Users/libingzhao/Sites/motelgranby/composer.lock",
+		"/Users/libingzhao/Sites/motelgranby/submit.php",
+		"/Users/libingzhao/Sites/motelgranby/composer.json",
+		"/Users/libingzhao/Sites/motelgranby/french_activ.htm",
+		"/Users/libingzhao/Sites/motelgranby/functions.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "functions.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user",
+				"backup/models/User.php"
+			],
+			[
+				"app",
+				"newlaravel/app/Providers/AppServiceProvider.php"
+			],
+			[
+				"",
+				"newlaravel/app/Providers/AppServiceProvider.php"
+			],
+			[
+				"appserviceprovider",
+				"newlaravel/app/Providers/AppServiceProvider.php"
+			],
+			[
+				"error",
+				"backup/views/emails/error.blade.php"
+			],
+			[
+				"homecontroller",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"jobtype",
+				"vendor/tcg/voyager/src/Models/Jobtype.php"
+			],
+			[
+				"datatype",
+				"vendor/tcg/voyager/src/Models/DataType.php"
+			],
+			[
+				"voyagerprojectcontroller",
+				"vendor/tcg/voyager/src/Http/Controllers/VoyagerProjectController.php"
+			],
+			[
+				"voyagerjobcontroller",
+				"vendor/tcg/voyager/src/Http/Controllers/VoyagerJobController.php"
+			],
+			[
+				"voyagerrolecontroller",
+				"vendor/tcg/voyager/src/Http/Controllers/VoyagerRoleController.php"
+			],
+			[
+				"voyagerdatabasecontroller",
+				"vendor/tcg/voyager/src/Http/Controllers/VoyagerDatabaseController.php"
+			],
+			[
+				"voyagercontroller",
+				"vendor/tcg/voyager/src/Http/Controllers/VoyagerController.php"
+			],
+			[
+				"voyager",
+				"vendor/tcg/voyager/routes/voyager.php"
+			],
+			[
+				"mailer1",
+				"nexbits/node_modules/laravel-elixir/node_modules/gulp-sass/node_modules/node-sass/node_modules/nan/nan_implementation_pre_12_inl.h"
+			],
+			[
+				"route.php",
+				"nexbits/src/routes/admin.route.php"
+			],
+			[
+				"head",
+				"flyer/head.php"
+			],
+			[
+				"inde",
+				"flyer/index.php"
+			],
+			[
+				"all",
+				"flyer/functions/allcity.php"
+			],
+			[
+				"nav",
+				"flyer/nav.php"
+			],
+			[
+				"cont",
+				"app/Http/Controllers/Controller.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -10,18 +10,9 @@
  * https://github.com/woocommerce/theme-customisations
  */
  
+
  
- 
- /**
- * @snippet       Simplify Checkout if Only Virtual Products
- * @how-to        Get CustomizeWoo.com FREE
- * @sourcecode    https://businessbloomer.com/?p=78351
- * @author        Rodolfo Melogli
- * @compatible    WooCommerce 3.5.4
- * @donate $9     https://businessbloomer.com/bloomer-armada/
- */
- 
-add_filter( 'woocommerce_checkout_fields' , 'bbloomer_simplify_checkout_virtual' );
+//add_filter( 'woocommerce_checkout_fields' , 'bbloomer_simplify_checkout_virtual' );
  
 function bbloomer_simplify_checkout_virtual( $fields ) {
     
@@ -52,7 +43,7 @@ function bbloomer_simplify_checkout_virtual( $fields ) {
  
  
  // Hook in
-add_filter( 'woocommerce_default_address_fields' , 'custom_override_default_address_fields' );
+//add_filter( 'woocommerce_default_address_fields' , 'custom_override_default_address_fields' );
 
 // Our hooked in function - $address_fields is passed via the filter!
 function custom_override_default_address_fields( $address_fields ) {
@@ -70,7 +61,7 @@ function custom_override_default_address_fields( $address_fields ) {
 }
 
 // Hook in
-add_filter( 'woocommerce_checkout_fields' , 'custom_override_checkout_fields' );
+//add_filter( 'woocommerce_checkout_fields' , 'custom_override_checkout_fields' );
 
 // Our hooked in function - $fields is passed via the filter!
 function custom_override_checkout_fields( $fields ) {
@@ -79,7 +70,7 @@ function custom_override_checkout_fields( $fields ) {
      return $fields;
 }
 
-add_action( 'woocommerce_payment_complete', 'so_payment_complete' );
+//add_action( 'woocommerce_payment_complete', 'so_payment_complete' );
 function so_payment_complete( $order_id ){  
   $order = wc_get_order( $order_id );
   $billingEmail = $order->billing_email;
