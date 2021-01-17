@@ -1,0 +1,12 @@
+{
+    "name": "libingzhao/composer",
+    "authors": [
+        {
+            "name": "libing",
+            "email": "yeslucky5@gmail.com"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^2.4"
+    }
+}
